@@ -26,7 +26,6 @@ const App = () => {
     <main>
       <header>
         <h1>Party Like It is 1989</h1>
-        <p>Made for SDG</p>
       </header>
 
       <ul class="movies">
